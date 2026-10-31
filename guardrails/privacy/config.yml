@@ -1,0 +1,6 @@
+colang_version: "1.0"
+
+rails:
+  output:
+    flows:
+      - mask sensitive data on output
