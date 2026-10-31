@@ -74,8 +74,18 @@ flight_booking_agent/
 ├── requirements.txt
 ├── run_app.bat       # Windows: double-click to install + launch the UI
 ├── .env.example
+├── output-pics/      # Sanitized screenshots
 └── README.md
 ```
+
+## Screenshots
+
+The images below show the trip-planning form and a sample itinerary. Screenshots
+containing conversation details are redacted in the public copies.
+
+![Trip-planning form](output-pics/1-sanitized.png)
+
+![Sample itinerary](output-pics/2-sanitized.png)
 
 ## Setup
 

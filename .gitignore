@@ -4,6 +4,8 @@ __pycache__/
 .venv/
 venv/
 .streamlit/secrets.toml
-output-pics/
+output-pics/*
+!output-pics/README.md
+!output-pics/*-sanitized.png
 gemini-error.txt
 *.log
